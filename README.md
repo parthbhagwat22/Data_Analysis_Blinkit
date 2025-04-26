@@ -11,7 +11,7 @@ The project involved:
 ## Dashboard Preview
 Here’s a glimpse of the final dashboard:
 
-![Dashboard Preview](https://github.com/parthbhagwat22/Data_Analysis_Blinkit/raw/main/DASHBOARD.png)
+![Dashboard Preview](https://github.com/parthbhagwat22/Data_Analysis_Blinkit/blob/main/Screenshot%202025-04-26%20170548.png)
 
 ## Project Structure
 - `Dataset/` — Contains the cleaned dataset used for building the dashboard (Excel file).
